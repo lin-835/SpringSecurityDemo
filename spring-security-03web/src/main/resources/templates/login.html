@@ -9,6 +9,7 @@
 <form method="post" th:action="@{/doLogin}">
     用户名 : <input name="uname" type="text"> <br>
     密码: <input name="passwd" type="text"> <br>
+    验证码: <input name="kaptcha" type="text"> <img alt="" th:src="@{/vc.jpg}"> <br>
     <input type="submit" value="登录">
 </form>
 <h3>
