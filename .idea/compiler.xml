@@ -7,14 +7,16 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="spring-security-03web" />
-        <module name="spring-security-06split-verifycode" />
         <module name="spring-security-split" />
+        <module name="spring-security-07password" />
+        <module name="spring-security-06split-verifycode" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="spring-security-01" target="1.8" />
       <module name="spring-security-03web" target="1.8" />
       <module name="spring-security-06split-verifycode" target="1.8" />
+      <module name="spring-security-07password" target="1.8" />
       <module name="spring-security-split" target="1.8" />
       <module name="spring-security-web-02" target="1.8" />
       <module name="spring-security-web01" target="1.8" />
@@ -27,6 +29,7 @@
       <module name="spring-security-01" options="-parameters" />
       <module name="spring-security-03web" options="-parameters" />
       <module name="spring-security-06split-verifycode" options="-parameters" />
+      <module name="spring-security-07password" options="-parameters" />
       <module name="spring-security-split" options="-parameters" />
       <module name="spring-security-web-02" options="-parameters" />
       <module name="spring-security-web01" options="-parameters" />

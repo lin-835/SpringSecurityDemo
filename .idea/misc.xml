@@ -6,6 +6,7 @@
         <option value="$PROJECT_DIR$/spring-security-03web/pom.xml" />
         <option value="$PROJECT_DIR$/spring-security-split/pom.xml" />
         <option value="$PROJECT_DIR$/spring-security-06split-verifycode/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-security-07password/pom.xml" />
       </list>
     </option>
   </component>
